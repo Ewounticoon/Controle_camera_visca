@@ -38,7 +38,10 @@ Note : Pour regarder le Port sur lequel vous etes connecté sous Windows, ouvrez
 
 	Note : La dernière commande de la partie Arduino sert à téléverser l'executable sur la carte branchée au port COM
 
-/!\ Ne pas oublier le point à la fin des commandes pour préciser que le fichier CMakeLists.txt est dans le dossier actuel. Si vous etes dans un sous dossier tel que "build", il faut mettre .. 
+/!\ Ne pas oublier le point à la fin des commandes pour préciser que le fichier CMakeLists.txt est dans le dossier actuel. Si vous etes dans un sous dossier tel que "build", il faut mettre ..
+
+## Auteurs
+Ce projet a été réalisé par **GAUDET Pierre**, **BOISSENIN Enzo** et **GIRAUD-CARRIER Ewen** dans le cadre du projet **d'informatique**.
 
 
 
